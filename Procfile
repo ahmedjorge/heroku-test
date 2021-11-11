@@ -1,1 +1,1 @@
-web: gunincorn config.wsgi
+web: gunicorn config.wsgi
